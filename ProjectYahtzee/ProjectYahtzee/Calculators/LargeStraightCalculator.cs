@@ -16,7 +16,7 @@ namespace ProjectYahtzee.Calculators
             {
                 if(DistinctValues[DistinctValues.Count()-1] - DistinctValues[0] < 5)
                 {
-                    return 30;
+                    return 40;
                 }
                 else
                 {

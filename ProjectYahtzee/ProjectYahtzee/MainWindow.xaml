@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="1500">
     <Grid>
-        <Button x:Name="Dice1" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,50,0,0" Background="Green" Click="Dice1_Click" />
-        <Button x:Name="Dice2" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="70,50,0,0" Background="Green" Click="Dice2_Click" />
-        <Button x:Name="Dice3" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="130,50,0,0" Background="Green" Click="Dice3_Click" />
-        <Button x:Name="Dice4" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="190,50,0,0" Background="Green" Click="Dice4_Click" />
-        <Button x:Name="Dice5" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="250,50,0,0" Background="Green" Click="Dice5_Click" />
+        <Button x:Name="Dice1" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,50,0,0" Background="Green" Click="Dice_Click" />
+        <Button x:Name="Dice2" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="70,50,0,0" Background="Green" Click="Dice_Click" />
+        <Button x:Name="Dice3" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="130,50,0,0" Background="Green" Click="Dice_Click" />
+        <Button x:Name="Dice4" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="190,50,0,0" Background="Green" Click="Dice_Click" />
+        <Button x:Name="Dice5" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="250,50,0,0" Background="Green" Click="Dice_Click" />
 
         <Button x:Name="RollButton" Height="50" Width="290" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,110,0,0" Content="Roll" Click="RollButton_Click" />
 
